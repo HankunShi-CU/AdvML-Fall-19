@@ -2,6 +2,10 @@
 
 This repository contains useful files for the advanced machine learning course. It will be updated as the course progresses to include tutorials (python and tensorflow), code samples from lecture, homework assignments, and term-project information.
 
+## Syllabus
+
+Can be found [here](https://github.com/ElliottGordon/AdvML-Fall-19/blob/master/STAT_GR5242_syllabus.pdf).
+
 ## Colaboratory
 
 In order to ensure that all students are working in a uniform environment, students will be expected to use [Colab](https://colab.research.google.com/) to follow along with in-class coding examples and solve homework assignments. We will also provide some term-project ideas of an appropriate computational such that the resources provided by [Colab](https://colab.research.google.com/) will be adequate. An introduction to [Colab](https://colab.research.google.com/)  will be provided with the in-class [python_tutorial](https://github.com/ElliottGordon/AdvML-Fall-19/tree/master/python_tutorial).
